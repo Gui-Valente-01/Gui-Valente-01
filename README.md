@@ -1,14 +1,11 @@
 <div align="center">
 
-Guilherme Valente
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05070A,50:0B1320,100:0F766E&text=GUILHERME%20VALENTE&fontColor=F8FAFC&fontSize=46&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20SAAS%20%E2%80%A2%20AI%20%E2%80%A2%20SYSTEMS&descAlignY=58&descSize=15&animation=fadeIn"/>
 
-Desenvolvedor Full Stack
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=2DD4BF&center=true&vCenter=true&width=950&lines=%3E+Construo+sistemas+que+saem+do+c%C3%B3digo+e+entram+em+produ%C3%A7%C3%A3o.;%3E+PHP+8.2+%E2%80%A2+Laravel+12+%E2%80%A2+Vue+3;%3E+Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL;%3E+Backend+%E2%80%A2+Frontend+%E2%80%A2+Banco+%E2%80%A2+Testes+%E2%80%A2+Deploy" alt="Typing SVG" />
 
-Construo sistemas de gestão que entram em produção.
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF9142&center=true&vCenter=true&width=850&lines=PHP+8.2+%E2%80%A2+Laravel+12+%E2%80%A2+Vue+3;Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript;SaaS+%E2%80%A2+PostgreSQL+%E2%80%A2+Supabase;Do+banco+ao+deploy." alt="Typing SVG" />
-
-<br/>
 
 
 
@@ -16,97 +13,111 @@ Construo sistemas de gestão que entram em produção.
 
 </div>
 
-> whoami
+<table>
+<tr>
+<td width="58%" valign="top">
 
-Sou o Guilherme Valente, de Apucarana-PR.
+> SYSTEM.IDENTITY
 
-Em 18 meses programando, construí 8 sistemas completos, passando por modelagem de banco, backend, frontend, autenticação, integrações, testes e deploy.
+const developer = {
+  name: "Guilherme Valente",
+  role: "Full Stack Developer",
+  location: "Apucarana • PR",
+  focus: ["Laravel", "Vue", "SaaS"],
+  strength: [
+    "arquitetura",
+    "regra de negócio",
+    "banco de dados",
+    "segurança",
+    "testes",
+    "deploy"
+  ],
+  objective: "transformar problemas reais em sistemas úteis"
+}
 
-Hoje meu foco principal está em:
+</td>
+<td width="42%" valign="top">
 
-PHP 8.2
-Laravel 12
-Vue 3
-MySQL / MariaDB
-APIs REST
-Arquitetura de sistemas
+> LIVE.METRICS
 
-Mas minha experiência também inclui:
 
-Next.js React TypeScript PostgreSQL Supabase Prisma Stripe Cloudflare Vercel
 
-📊 Painel
 
-<div align="center">
 
-Indicador
-
-Valor
-
-Commits
-
-264
-
-Sistemas
+🧩 Sistemas
 
 8
 
-Meses de código
+⚡ Commits
 
-18
+264
 
-Testes automatizados
+🧪 Testes automatizados
 
 61+
 
+🕒 Meses de código
+
+18
+
+🚀 Maior mês
+
+88 commits
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+01 // ABOUT
+
+Eu não quero só escrever código. Quero construir produto.
+
 </div>
 
-01 — Ritmo de trabalho
+Sou Guilherme Valente, desenvolvedor Full Stack de Apucarana-PR.
 
-Commits por mês
+Em cerca de 18 meses de programação, saí dos primeiros exercícios em C para aplicações completas com autenticação, multi-tenant, APIs, pagamentos, RLS, testes, CI/CD e integrações com IA.
 
-Mar 2026   ███                                  6
-Abr 2026   ████                                 7
-Mai 2026   █████████████████████████           58
-Jun 2026   ██████████████████                  41
-Jul 2026   ███████████████████████████         64
-Ago 2026   ██████████████████████████████████  88
+Meu foco atual está em PHP 8.2, Laravel 12 e Vue 3, mas já construí produtos completos com Next.js, React, TypeScript, PostgreSQL, Supabase, Prisma, Stripe, Cloudflare e Vercel.
 
-Agosto de 2026 já era o maior mês quando os dados foram medidos em 24/08.
+[ PROBLEMA REAL ]
+       │
+       ▼
+[ REGRA DE NEGÓCIO ]
+       │
+       ▼
+[ MODELAGEM ]
+       │
+       ▼
+[ BACKEND / API ]
+       │
+       ▼
+[ FRONTEND ]
+       │
+       ▼
+[ SEGURANÇA + TESTES ]
+       │
+       ▼
+[ DEPLOY ]
+       │
+       ▼
+[ PRODUTO EM USO ]
 
-02 — Minha evolução
+<div align="center">
 
-Período
+02 // CURRENT STACK
 
-Marco
+Tecnologias que aparecem em código, não só em curso.
 
-Fev 2025
+</div>
 
-Primeiras linhas em C na faculdade
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Out 2025
-
-Primeiro repositório e início do versionamento com Git
-
-Mar 2026
-
-Python e Node — transição para aplicações web
-
-Mai 2026
-
-Primeiro SaaS: Eventify AI
-
-Jun–Jul 2026
-
-ConfecControl, CaseFlow e Gestão Escolar em paralelo
-
-Ago 2026
-
-Migração do foco para PHP, Laravel 12 e Vue 3
-
-03 — Tecnologias
-
-Backend
+⚙️ Backend
 
 
 
@@ -114,24 +125,17 @@ Backend
 
 
 
-
-Frontend
-
+🗄️ Dados
 
 
 
 
 
 
+</td>
+<td width="50%" valign="top">
 
-Dados
-
-
-
-
-
-
-Qualidade & Infra
+🖥️ Frontend
 
 
 
@@ -139,307 +143,333 @@ Qualidade & Infra
 
 
 
+🧪 Qualidade & Infra
 
 
 
-04 — Projetos
 
-🟠 Kanban FAP
 
-Foco atual • Laravel + Vue
 
-Quadros Kanban compartilhados entre usuários, com API REST em Laravel e SPA em Vue. Cards possuem responsável, prazo, etiquetas, checklists, comentários e histórico de ações.
 
-Métricas: 9 commits • 197 arquivos • 61 testes
+</td>
+</tr>
+</table>
 
-Stack
+<div align="center">
 
-Laravel 12 PHP 8.2 Sanctum 4 Vue 3 Pinia 3 Vite 6 MariaDB
+03 // BUILD.VELOCITY
 
-Destaques técnicos
+Evolução de commits — mar → ago 2026
 
-Mover card com transação e lock de linha
-Executado com DB::transaction, tentativas de retry e lockForUpdate para evitar conflitos em movimentações simultâneas.
+</div>
+
+MAR  ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   6
+ABR  ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   7
+MAI  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱  58
+JUN  ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱  41
+JUL  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱  64
+AGO  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  88
+
+<div align="center">
+
+264 commits medidos • crescimento consistente desde maio • agosto no maior ritmo
+
+</div>
+
+<div align="center">
+
+04 // PROJECTS
+
+Projetos que mostram como eu penso engenharia.
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🟠 KANBAN FAP
+
+CURRENT FOCUS · Laravel + Vue
+
+API REST + SPA para quadros Kanban compartilhados.
+
+61 testes · 197 arquivos
+
+Laravel 12 PHP 8.2 Sanctum Vue 3 Pinia MariaDB
+
+⚡ Engenharia
+
+Transações com lockForUpdate
+
+7 Policies
+
+40 autorizações em controllers
+
+Drag & drop sem biblioteca
+
+Pointer Events + auto-scroll
+
+Arquivo-chave
 
 app/Services/CardPositioner.php
 
-7 Policies com bloqueio em cascata
-Autorização distribuída em controllers e policies, com bloqueio herdado por estrutura.
-
-app/Policies/CardPolicy.php
-
-Drag and drop escrito do zero
-Pointer Events para mouse e toque, limiar de movimento e auto-scroll com requestAnimationFrame.
-
-resources/js/composables/useArrastarCards.js
 
 
+</td>
+<td width="50%" valign="top">
 
-🏭 ConfecControl
+🏭 CONFECCONTROL
 
-ERP multiempresa
+ERP MULTIEMPRESA
 
-ERP web para confecções: do pedido ao chão de fábrica e ao financeiro, com várias empresas no mesmo sistema e planos por funcionalidade.
+ERP web para confecções: pedido → produção → estoque → financeiro.
 
-Métricas: 105 commits • 280 arquivos • 35 testes
+105 commits · 280 arquivos · 35 testes
 
-Stack
+Next.js 16 React 19 TypeScript Prisma PostgreSQL
 
-Next.js 16 React 19 TypeScript Prisma 6 PostgreSQL Playwright Sentry
+⚡ Engenharia
 
-Destaques técnicos
+Transação Serializable
 
-Recebimento idempotente em transação Serializable
-Baixas financeiras protegidas contra duplicidade, com chave de idempotência.
+Idempotência financeira
+
+Matriz de 27 capacidades
+
+Upload validado por magic bytes
+
+Playwright + Sentry
+
+Arquivo-chave
 
 src/app/financeiro/actions.ts
 
-Matriz de 27 capacidades no servidor
-Plano e cargo são transformados em permissões verificadas no backend.
-
-src/lib/capabilities.ts
-
-Anexo validado por magic bytes
-O arquivo é validado pelo conteúdo binário, não apenas pela extensão.
-
-src/lib/upload-validation.ts
 
 
+</td>
+</tr>
+</table>
 
-⚖️ CaseFlow
+<table>
+<tr>
+<td width="50%" valign="top">
 
-SaaS jurídico • Código privado
+⚖️ CASEFLOW
 
-Gestão de processos para escritórios de advocacia, com portal próprio para o cliente acompanhar seus casos.
+SAAS JURÍDICO · Private
 
-Métricas: 50 commits • 210 arquivos • 26,7k linhas
+Plataforma multi-tenant para escritórios e clientes.
 
-Stack
+50 commits · 210 arquivos · 26,7k linhas
 
-Next.js 16 React 19 Supabase PostgreSQL + RLS Stripe Sentry GitHub Actions
+Next.js Supabase PostgreSQL RLS Stripe
 
-Destaques técnicos
+⚡ Engenharia
 
-Integração com o DataJud do CNJ
-Consome a API pública de processos do Conselho Nacional de Justiça.
+Integração DataJud/CNJ
 
-src/lib/datajud.ts
+Sync com dedup por hash
 
-Sincronização de andamentos com deduplicação por hash
-Cron busca novas movimentações sem duplicar registros.
+RLS multi-tenant
 
-src/lib/court-sync.ts
+Harness de segurança em SQL
 
-RLS multi-tenant testado em SQL
-Harness próprio para provar que um escritório não consegue ler dados de outro.
+Billing + auditoria
+
+Arquivo-chave
 
 docs/rls-test-harness.sql
 
-🔒 Repositório privado. Código disponível para demonstração em conversa técnica.
+🔒 Código privado. Disponível para apresentação técnica.
 
-🤖 Eventify AI
+</td>
+<td width="50%" valign="top">
 
-IA + Pagamentos
+🤖 EVENTIFY AI
 
-Geração de sites de eventos por IA, do briefing ao link pago e publicado, incluindo confirmação de presença.
+AI + PAYMENT
 
-Métricas: 29 commits • 167 arquivos • 8 testes
+Geração de sites de eventos com IA, publicação e pagamento.
 
-Stack
+29 commits · 167 arquivos · 8 testes
 
-Next.js 16 React 19 Google Gemini Supabase Stripe Vitest
+Next.js React Gemini Supabase Stripe
 
-Destaques técnicos
+⚡ Engenharia
 
-Webhook Stripe verificado manualmente
-Assinatura HMAC conferida sem SDK pesado e proteção contra replay.
+HMAC Stripe sem SDK pesado
 
-lib/stripeWebhook.ts
+Proteção contra replay
 
 Pipeline de 9 agentes
-Agentes especializados montam partes do briefing antes da geração final.
+
+28 policies de RLS
+
+Regra de pagamento no banco
+
+Arquivo-chave
 
 lib/agents/orchestrator.ts
 
-28 policies de RLS
-A regra de negócio também é protegida no banco.
-
-supabase/migrations/
 
 
+</td>
+</tr>
+</table>
 
-🎓 Gestão Escolar
+<table>
+<tr>
+<td width="50%" valign="top">
 
-No ar • 6 perfis de acesso
+🎓 GESTÃO ESCOLAR
 
-Sistema para notas, frequência, ocorrências e comunicação com a família. Cada perfil vê somente sua área.
+LIVE · 6 perfis de acesso
 
-Métricas: 20 commits • 144 arquivos • 24 modelos
+Notas, frequência, ocorrências e comunicação com responsáveis.
 
-Stack
+20 commits · 144 arquivos · 24 modelos
 
-Next.js 14 Prisma 5 PostgreSQL Zod Recharts Vitest
+Next.js 14 Prisma PostgreSQL Zod Recharts
 
-Destaques técnicos
+⚡ Engenharia
 
 Autorização em 3 camadas
-Rota, action e vínculo de dados.
 
-src/services/teacher.service.ts
+PDF gerado sem biblioteca
 
-Gerador de PDF escrito manualmente
-Objetos, stream de texto, paginação e tabela xref construídos diretamente.
+Correção de N+1
 
-src/lib/export.ts
-
-Correção de problema N+1
-Consultas agregadas para reduzir múltiplas leituras.
-
-src/services/teacher.service.ts
+Perfis e regras por vínculo
 
 
 
 
-👕 El Roi
+</td>
+<td width="50%" valign="top">
 
-E-commerce
+♻️ ECOAPUCA
 
-Loja de streetwear com checkout Stripe, painel administrativo e controle de estoque.
+EDGE + CI/CD
 
-Métricas: 13 commits • 73 arquivos • 4,5k linhas
+Gamificação de reciclagem para cidadãos, operadores e gestão.
 
-Stack
+7 commits · 38 arquivos · CI ativo
 
-Next.js 14 TypeScript Supabase Stripe Zustand Zod
+React 19 Vite 8 Cloudflare Workers Drizzle
 
-Destaques técnicos
+⚡ Engenharia
 
-Preços revalidados no servidor
-O preço final vem do banco, não do valor enviado pelo navegador.
+Dois alvos de build
 
-src/app/api/checkout/route.ts
+Worker testado como artefato
 
-Sessão admin HMAC-SHA256
-Sessão assinada com WebCrypto.
-
-src/lib/admin-session.ts
-
-Rollback quando o Stripe falha
-Evita pedidos órfãos em caso de falha na abertura da sessão de pagamento.
-
-src/app/api/checkout/route.ts
-
-
-
-♻️ EcoApuca
-
-Edge computing • CI ativo
-
-Sistema de reciclagem com pontos para Apucarana: cidadão acumula, operador valida e a gestão acompanha.
-
-Métricas: 7 commits • 38 arquivos • CI ativo
-
-Stack
-
-React 19 Vite 8 Cloudflare Workers Drizzle ORM GitHub Actions
-
-Destaques técnicos
-
-Um componente, dois alvos de build
-O mesmo React gera versão dinâmica e estática.
-
-vite.static.config.ts
-
-Teste do Worker buildado
-O teste sobe o artefato real com bindings simulados.
-
-tests/rendered-html.test.mjs
+GitHub Actions
 
 Deploy automatizado
 
-.github/workflows/deploy.yml
+Edge computing
 
 
 
-💍 Casamento
+</td>
+</tr>
+</table>
 
-JavaScript puro • Sem servidor de aplicação
+<details>
+<summary><b>＋ Ver outros projetos</b></summary>
 
-Site de casamento com painel de edição próprio e confirmação de presença.
+<br/>
 
-Métricas: 8 commits • 12 arquivos • JS puro
+👕 El Roi — E-commerce
 
-Stack
+Next.js TypeScript Supabase Stripe Zustand Zod
+
+Preços revalidados no servidor
+
+Sessão admin HMAC-SHA256
+
+Rollback quando Stripe falha
+
+Controle de estoque
+
+
+
+💍 Casamento — JavaScript + Supabase
 
 JavaScript ES6 Supabase PL/pgSQL pgcrypto GitHub Pages
 
-Destaques técnicos
+SECURITY DEFINER
 
-Acesso somente por SECURITY DEFINER
-
-supabase/migration.sql
-
-Senha com bcrypt dentro do PostgreSQL
-
-supabase/migration.sql
+bcrypt no PostgreSQL
 
 Fallback offline
-Nuvem → localStorage → conteúdo padrão.
 
-assets/js/cloud.js
-
+Site sem servidor de aplicação
 
 
-🧠 Como eu construo software
 
-PROBLEMA
-   ↓
-REGRA DE NEGÓCIO
-   ↓
-MODELAGEM DE DADOS
-   ↓
-BACKEND / API
-   ↓
-FRONTEND
-   ↓
-AUTORIZAÇÃO & SEGURANÇA
-   ↓
-TESTES
-   ↓
-DEPLOY
-   ↓
-USO REAL
-
-📈 GitHub
+</details>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gui-Valente-01&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Valente-01&layout=compact&theme=github_dark&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Gui-Valente-01&theme=github-dark-blue&hide_border=true" />
+05 // JOURNEY
 
 </div>
 
-📬 Contato
+2025.02 ── C / lógica
+    │
+2025.10 ── GitHub / versionamento
+    │
+2026.03 ── Python + Node
+    │
+2026.05 ── Eventify AI / primeiro SaaS
+    │
+2026.06 ── ConfecControl
+    │
+2026.07 ── CaseFlow + Gestão Escolar
+    │
+2026.08 ── PHP 8.2 + Laravel 12 + Vue 3
+    │
+    └──────> próximo nível_
 
 <div align="center">
 
-Vamos conversar.
+06 // GITHUB.DATA
 
-Estou em Apucarana-PR e disponível para oportunidades como desenvolvedor.
-
-
-
-
-
-
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Gui-Valente-01&show_icons=true&theme=transparent&hide_border=true&title_color=2DD4BF&text_color=94A3B8&icon_color=F97316&ring_color=2DD4BF" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Valente-01&layout=compact&theme=transparent&hide_border=true&title_color=2DD4BF&text_color=94A3B8" />
 
 <br/>
 
-BUILD • TEST • SHIP • EVOLVE
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gui-Valente-01&bg_color=00000000&color=94A3B8&line=2DD4BF&point=F97316&area=true&hide_border=true"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Gui-Valente-01&theme=transparent&hide_border=true&ring=2DD4BF&fire=F97316&currStreakLabel=2DD4BF&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" />
+
+</div>
+
+<div align="center">
+
+07 // CONTACT
+
+Tem um problema que precisa virar sistema?
+
+<br/>
+
+
+
+
+
+
+
+<br/><br/>
+
+BUILD  →  TEST  →  SHIP  →  MEASURE  →  EVOLVE_
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F766E,50:0B1320,100:05070A"/>
 
 </div>

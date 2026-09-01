@@ -21,9 +21,13 @@
 
 const developer = {
   name: "Guilherme Valente",
+  
   role: "Full Stack Developer",
+  
   location: "Apucarana • PR",
+  
   focus: ["Laravel", "Vue", "SaaS"],
+  
   strength: [
     "arquitetura",
     "regra de negócio",

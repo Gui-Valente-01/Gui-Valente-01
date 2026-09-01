@@ -28,7 +28,8 @@ const developer = {
   
   focus: ["Laravel", "Vue", "SaaS"],
   
-  strength: [
+  strength:
+  [
     "arquitetura",
     "regra de negócio",
     "banco de dados",
@@ -36,6 +37,7 @@ const developer = {
     "testes",
     "deploy"
   ],
+  
   objective: "transformar problemas reais em sistemas úteis"
 }
 
